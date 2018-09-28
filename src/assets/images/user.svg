@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="25px" height="25px" viewBox="0 0 25 25" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: sketchtool 51.2 (57519) - http://www.bohemiancoding.com/sketch -->
+    <title>C6B13AED-F626-48D5-BE8A-9CC2F369A008</title>
+    <desc>Created with sketchtool.</desc>
+    <defs>
+        <circle id="path-1" cx="12.5" cy="12.5" r="12.5"></circle>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="IDSO_campaign" transform="translate(-1235.000000, -17.000000)">
+            <g id="Group-8">
+                <g id="Header">
+                    <g id="Profile" transform="translate(1182.000000, 17.000000)">
+                        <g id="user" transform="translate(53.000000, 0.000000)">
+                            <mask id="mask-2" fill="white">
+                                <use xlink:href="#path-1"></use>
+                            </mask>
+                            <use id="Mask" fill="#DDDDDD" xlink:href="#path-1"></use>
+                            <g mask="url(#mask-2)" fill="#44596E" fill-rule="nonzero">
+                                <g transform="translate(2.000000, 2.000000)">
+                                    <ellipse id="Oval" cx="10.9874429" cy="5.95041322" rx="6.02739726" ry="5.95041322"></ellipse>
+                                    <path d="M10.9874429,12.8760331 C4.95391781,12.8760331 0.0627853881,17.9609694 0.0627853881,23 L21.9121005,23 C21.9121005,17.9609694 17.020968,12.8760331 10.9874429,12.8760331 Z" id="Shape"></path>
+                                </g>
+                            </g>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
